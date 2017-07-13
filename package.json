@@ -1,0 +1,21 @@
+{
+  "name": "com.rd11.remote-controls",
+  "version": "1.0.1",
+  "description": "iOS  lock-screen remote-controls and now playing display.",
+  "main": "RemoteControls.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickh364/RemoteControls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/nickh364/RemoteControls/issues"
+  },
+  "homepage": "https://github.com/nickh364/RemoteControls#readme"
+}
